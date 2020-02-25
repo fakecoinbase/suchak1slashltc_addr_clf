@@ -1,2 +1,2 @@
-# btc_addr_clf
-Bitcoin Address Classification model using supervised machine learning
+# ltc_addr_clf
+Litecoin Address Classification model using supervised machine learning.
